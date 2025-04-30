@@ -17,3 +17,7 @@ console.log('Desconto atualizado:' + desconto);
 let tamanhos = ['pp', 'p', 'm', 'g', 'gg', 1, 23, 2132, 42421];	
 let temPet = true;
 let idade = 26
+let dataCadastro = new Date();
+console.log(dataCadastro);
+let datadoNascimento = new Date(1997, 11, 25);
+console.log(datadoNascimento);
